@@ -22,3 +22,8 @@ Share the generated game link with your opponent and begin your match.
 1. Open the game link above.
 2. Share your unique game URL with your opponent.
 3. Enjoy a seamless online chess match.
+
+
+✨ **Happy Coding! Keep Learning & Keep Growing!** 🚀  
+<br>
+![](https://komarev.com/ghpvc/?username=VA-run&label=Visitors&color=blue)
